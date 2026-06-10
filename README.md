@@ -8,7 +8,7 @@ Explore and analyze student data to determine how the length of stay impacts the
 ## Expected Output
 A summary table with 9 rows and 5 columns, filtered to international students only, sorted by length of stay in descending order and lastly rounding all average values to two decimal places.
 
-COLUMNS:
+### COLUMNS:
 `'stay'`: length of stay(years).
 `'count_int'`: Number of international students for that length of stay.
 `'average_phq'`: Average PHQ-9 score, rounded to 2 decimal places.
