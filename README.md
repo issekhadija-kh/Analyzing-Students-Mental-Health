@@ -11,7 +11,11 @@ A summary table with 9 rows and 5 columns, filtered to international students on
 ## Columns:
 
 • `'stay'`: length of stay(years).
+
 • `'count_int'`: Number of international students for that length of stay.
+
 • `'average_phq'`: Average PHQ-9 score, rounded to 2 decimal places.
+
 • `'average_scs'`: Average SCS score, rounded to 2 decimal palces.
+
 • `'average_as'`: Average ASISS score, rounded to 2 decimal places.
